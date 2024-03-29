@@ -1,1 +1,2 @@
-# Facial-Emotion-and-Behavioural-Recognition-
+# Facial-Emotion-and-Behavioural-Recognition
+This analysis will help to understand the behavioural characteristics of an individual to prevent crimes. In addition, face detection is implemented in case of tracking purpose. The primary objective of this research is to analyse emotions, actions, and face on video dataset and in real time scenario to understand the behavioural characteristics of individual. Several models like 3D CNN model, RNN, pretrained model like Deep Face, Haar Cascade Classifier, MTCNN to predict the emotions and actions by individuals.
